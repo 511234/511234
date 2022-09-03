@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**511234/511234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-![](https://komarev.com/ghpvc/?username=511234&label=hiiiii&color=000000)
+```
+The foot may fail, the soul may faint,  
+And weigh to earth the weary frame,  
+Yet still they make no weak complaint,  
+and speak no word of grief or blame.
+```
