@@ -2,7 +2,9 @@
   🦔 Hi. Welcome. It's breezy in here. 🍂
   <br />
   <br />
-  Please take a look at my projects. Would love to have discussions / collaborations 💨 lulutheflaneur@gmail.com
+Consistent & curious.
+ Looking for like-minded people to work together.
+ Every little step counts. Look back and we'll realize how much we've accomplished. :)
   <br />
   <br />
   
