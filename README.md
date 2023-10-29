@@ -2,8 +2,13 @@
   🦔 Hi. Welcome. It's breezy in here. 🍂
   <br />
   <br />
-Consistent & curious.
+  I am consistent.
+  I am curious.
+  <br />
+  <br />
  Looking for like-minded people to work together.
+  <br />
+  <br />
  Every little step counts. Look back and we'll realize how much we've accomplished. :)
   <br />
   <br />
