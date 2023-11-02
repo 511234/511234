@@ -12,6 +12,16 @@
  Every little step counts. Look back and we'll realize how much we've accomplished. :)
   <br />
   <br />
+  Fun fact about me:
+  <br />
+  I have been singing in choir for more than 3 years as a Soprano & Alto. 
+  <br />
+  <br />
+  😆 Choirs I've been proudly in: 
+   <br />
+  [The Harmonics Choir HK](https://www.facebook.com/theharmonicshk)
+  <br />
+  [Fluente Chorus](https://www.facebook.com/fluentechorus/)
   
 
 | Project       | Description   | Technology |
