@@ -1,21 +1,14 @@
 
   🦔 Hi. Welcome. It's breezy in here. 🍂
   <br />
+    <br />
+  Who's getting ready for Christmas?
   <br />
-  I am consistent.
-  I am curious.
+    <br />
+  Look back and we'll realize how much we've accomplished. :)
   <br />
-  <br />
- Looking for like-minded people to work together.
-  <br />
-  <br />
- Every little step counts. Look back and we'll realize how much we've accomplished. :)
-  <br />
-  <br />
-  Fun fact about me:
-  <br />
-  I sang in adult choirs for more than 3 years!
-  
+
+
 
 | Project       | Description   | Technology |
 | ------------- | ------------- | ---------- |
