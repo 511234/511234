@@ -1,12 +1,6 @@
 
   🦔 Hi. Welcome. It's breezy in here. 🍂
   <br />
-    <br />
-  Who's getting ready for Christmas?
-  <br />
-    <br />
-  Look back and we'll realize how much we've accomplished. :)
-  <br />
 
 
 
